@@ -3,9 +3,9 @@
 This is a **real-time telemetry system** that tracks **acceleration, temperature, and distance** using an **MPU6050 accelerometer, DHT11 temperature sensor, and an ultrasonic sensor**. Instead of just displaying data, it **yells at you like an angry mom**, thanks to **Gemini AI** and **11Labs TTS**.
 
 ---
-# **Assemble Instructions**
+# **Assembly Instructions**
 
-Parts you need: DHT11 (Temperature Sensor), Ultrasonic sensor, MPU6050, optionally an TFT-LCD display, Arduino UNO
+**Parts you need** : DHT11 (Temperature Sensor), Ultrasonic sensor, MPU6050, optionally an TFT-LCD display, Arduino UNO
 
 DHT11 -> D2
 
