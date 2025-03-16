@@ -7,11 +7,14 @@ This is a **real-time telemetry system** that tracks **acceleration, temperature
 
 Parts you need: DHT11 (Temperature Sensor), Ultrasonic sensor, MPU6050, optionally an TFT-LCD display, Arduino UNO
 
-# **Connections**
 DHT11 -> D2
+
 TRIG -> D9
+
 ECHO -> D10
+
 MPU6050 (SDA) -> A4
+
 MPU6050 (SCL) -> A5
 
 ## **How to Run the AI System**
